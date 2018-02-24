@@ -29,6 +29,7 @@ Try to beat the AI,and the status about the game will be shown on the top of the
 
 * **Hsi-Hsuan Wu** - *GUI development* - [wsp50317](https://github.com/wsp50317)
 * **林怡瑄** - *AI development*
+* **黃子瑜** - *Graphic design*
 
 ## Acknowledgments
 
