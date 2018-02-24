@@ -1,7 +1,9 @@
 # Project Title
 
 Watermelon Chess is suitable for every age with the easy rules,but you still need to use your brain to win the chess game.  
+
 This is my special topic for Artificial Intelligence courses,and I'm responsible for GUI.
+
 (WIKI 's Introduction about Watermelon Chess : https://en.wikipedia.org/wiki/Watermelon_Chess) 
 
 ## Getting Started
